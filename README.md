@@ -9,7 +9,9 @@
 
 ## Скриншоты
 
-![Вход](docs/screenshots/01-login.jpg)
+| Вход | Чат |
+|---|---|
+| ![Вход](docs/screenshots/01-login.jpg) | ![Чат](docs/screenshots/02-chat.jpg) |
 
 ## Запуск локально
 
