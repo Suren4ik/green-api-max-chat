@@ -9,9 +9,9 @@
 
 ## Скриншоты
 
-| Вход | Чат |
-|---|---|
-| ![Вход](docs/screenshots/01-login.jpg) | ![Чат](docs/screenshots/02-chat.jpg) |
+| Вход | Новый чат | Переписка |
+|---|---|---|
+| ![Вход](docs/screenshots/01-login.jpg) | ![Новый чат](docs/screenshots/02-new-chat.jpg) | ![Переписка](docs/screenshots/03-chat.jpg) |
 
 ## Запуск локально
 
