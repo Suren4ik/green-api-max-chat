@@ -5,11 +5,19 @@
 
 Стек: React 19, TypeScript, Vite, Vitest. Без UI-библиотек и без бэкенда: браузер обращается к GREEN-API напрямую (сервис отдаёт CORS-заголовки для GET, POST и DELETE).
 
-## Запуск
+**Демо:** https://suren4ik.github.io/green-api-max-chat/ (собирается и публикуется GitHub Actions при каждом push в `main`).
+
+## Скриншоты
+
+![Вход](docs/screenshots/01-login.jpg)
+
+## Запуск локально
 
 Нужен Node.js 20+.
 
 ```bash
+git clone https://github.com/Suren4ik/green-api-max-chat.git
+cd green-api-max-chat
 npm install
 npm run dev      # http://localhost:5173
 ```
